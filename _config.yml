@@ -27,7 +27,7 @@ twitter_username: jdsantos
 linkedin_username:  jdsantos
 rss: Feed RSS
 
-sessionhunt_analytics: a01af493-30fa-8248-f30e-98818707af8c
+analytics_id: a01af493-30fa-8248-f30e-98818707af8c
 
 # Build settings
 markdown: kramdown
