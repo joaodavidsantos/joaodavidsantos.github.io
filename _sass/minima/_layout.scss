@@ -10,6 +10,13 @@
   position: relative;
 }
 
+.site-header-image {
+    background-image: url("../img/header_bg.jpg");
+    background-size: cover;
+    background-position: center center;
+    height: 10em;
+}
+
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
