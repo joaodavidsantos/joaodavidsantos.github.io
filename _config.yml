@@ -31,7 +31,7 @@ analytics_id: a01af493-30fa-8248-f30e-98818707af8c
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
