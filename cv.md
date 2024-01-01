@@ -11,7 +11,7 @@ permalink: /cv/
 
 # Work experience
 
-## Senior Software Engineer - [Alter Frame](https://www.alter-solutions.com) _[2015 - present]_
+## Senior Software Engineer - [Alter Frame](https://www.alter-solutions.com) _[2015 - 2018]_
 
 ### Management platform for electronic gift vouchers
 Analysis, design and development of a platform to manage gift vouchers, manage the list of stores where those vouchers can be used, interface with payment services, and analyse transaction data.
