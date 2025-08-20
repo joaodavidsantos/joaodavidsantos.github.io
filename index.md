@@ -5,4 +5,4 @@
 layout: home
 ---
 
-I’m a portuguese software engineer from Lisbon with extensive knowledge in the computer software development and processes, highly skilled in technical management and OOP. My mindset is oriented to product development, always planning for the long term but knowing where and when to accept compromises.
+#I’m a portuguese software engineer from Lisbon with extensive knowledge in the computer software development and processes, highly skilled in technical management and OOP. My mindset is oriented to product development, always planning for the long term but knowing where and when to accept compromises.
